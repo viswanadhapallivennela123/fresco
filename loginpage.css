@@ -1,0 +1,137 @@
+ h1{
+     
+    font-family: bold;
+    text-align: center;
+    margin-top: 260px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-family:arial;
+    color: rgb(1, 82, 1);
+      
+}
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+body{
+      text-align: center;
+      background-image: url("https://image.slidesdocs.com/responsive-images/background/vegetable-white-variety-rich-variety-border-powerpoint-background_ca892afaa9__960_540.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;
+      
+     
+
+      
+     
+}
+form{
+    margin-left: 540px;
+     
+    
+}
+fieldset{
+      width: 400px;
+      height: max-content;
+    margin-left:4%;
+    border-radius: 20px;
+    box-shadow:outset;
+    }
+       
+legend{
+    text-align: center;
+    font-size: 20px;
+}
+button{
+    padding: 3px;
+     margin-bottom: 10px;  
+
+}
+input{
+    border-radius: 40px 40px 40px 40px;
+    padding: 3px;
+} 
+
+.a{
+    margin-right:80px;
+}
+.b{
+    margin-right: 110px;
+}
+.c{
+    margin-right:40px ;
+}
+.d{
+    margin-right:30px ;
+}
+/*
+ 
+h1{
+     
+    font-family: bold;
+    text-align: center;
+    margin-top: 11rem;
+    margin-bottom:0.2rem;
+    font-size: 4rem;
+    font-family:arial;
+    color: rgb(1, 82, 1);
+      
+}
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+body{
+      text-align: center;
+      background-image: url("https://image.slidesdocs.com/responsive-images/background/vegetable-white-variety-rich-variety-border-powerpoint-background_ca892afaa9__960_540.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;
+      
+     
+
+      
+     
+}
+form{
+     margin: auto;
+     
+    
+}
+.flex-container{
+     margin-left: 30rem;
+}
+fieldset{
+      width: 20rem;
+      height: max-content;
+    margin-left: 10rem;
+    border-radius: 20px;
+    box-shadow:outset;
+    }
+       
+legend{
+    text-align: center;
+    font-size: 1.3rem;
+}
+button{
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+     margin-bottom: 10px;  
+
+}
+input{
+    border-radius: 40px 40px 40px 40px;
+    padding: 3px;
+} 
+
+.a{
+    margin-right:80px;
+}
+.b{
+    margin-right: 110px;
+}
+.c{
+    margin-right:40px ;
+}
+.d{
+    margin-right:30px ;
+}
+*/

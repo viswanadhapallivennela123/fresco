@@ -1,0 +1,44 @@
+
+h1{
+    background-color: green;
+    text-align: center;
+    color: rgb(255, 101, 45);
+}
+p{
+    font-family: arial;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h4{
+    margin-left: 20px;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+h2{
+    background-color:silver;
+    color: green;
+}
+h3{
+    margin-left: 20px;
+     
+}
+a{
+    text-decoration: none;
+    color: rgb(18, 151, 234);
+}
+.register{
+    background-color:whitesmoke;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.504);
+    
+}
+h6{
+    background-color: red;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.registration{background-color:whitesmoke;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.504);
+
+}
+ 

@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  .section{
+    background-color:rgb(181, 227, 190);
+    margin-top: 20px;
+    margin-bottom: 20px;
+   border-radius: 20px 0px 20px 0px ;
+    width: 200px;
+  height:max-content;
+  margin-left: 80px;
+  display: inline-flex;
+  box-shadow:outset;
+  overflow: hidden;
+  }
+  
+  .fig img{
+  width: 200px;
+  height: 100px;
+  border-radius: 20px 0px 0px 0px ;
+  }
+  
+  .figcap{
+  text-align:center;
+  }
+  
+  .button{
+  text-align: center;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  font-family:arial;
+  font-size: 15px;
+  
+  
+  }
+  .sec{
+  background-color:rgb(244, 239, 239);
+  box-shadow:0px 0px 5px 5px rgba(0.5,0,0,0.25);
+  border-radius: 5px;
+  width: 100%;
+  height:max-content;
+  margin-top: 20px;
+  
+  }
+  .a{
+    text-align: center;
+    color:rgb(1, 57, 4) ;
+    font-family: arial;
+   background-color: silver;
+  }
+  .aa{text-decoration: none;
+    color: black;
+  
+  }
+    .h1{color: rgb(0, 0, 0);
+        background: linear-gradient(60deg,rgb(6, 75, 6),rgb(255, 255, 255) 100%,rgb(6, 75, 6) 10%);
+        margin-left: 1px;
+        width: 3px;
+        height: max-content;
+        padding: 5px;
+        display: flex;}

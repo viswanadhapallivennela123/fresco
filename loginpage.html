@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FRESCO LOGIN PAGE</title>
+        <meta charset="UTF-8">
+        <meta name="google"/>
+        <meta name="viewport" content="width=device-width" initial-scale="1">
+        <link rel="stylesheet" href="loginpage.css">
+        <script src="loginpage.js"></script>
+        <link rel="icon" type="image/x-icon" href="frescologo.png">
+    </head>
+    <body>
+         
+        <h1>FRESCO</h1>
+        <div class="flex-container">
+        <form   method="get"  action="">
+            <fieldset>
+                <legend><b>Login/Sign Up</b></legend>
+                <label class="a">Full Name</label><br>
+                <input type="text"  placeholder="Enter your Full Name" name="Full Name" required id="fullname"><br><br>
+                 
+                <label class="b">Phone</label><br>
+                <input type="number"  name="mobile" placeholder="1234567890"  required id="phonenumber"  ><br><br>
+                 
+                <label class="c">Set Up Password</label><br>
+                <input type="password" name="password" placeholder="strong password"    required id="psw"> </p><br>
+                 
+                <label class="d">Confirm Password</label><br>
+                <input type="password" name="confirm password" placeholder="strong password"  min="6" max="15" required id="conpsw"></p><br>
+                 
+                
+                <button type="submit" name="submit" onclick="validation()" >Submit</button>
+            </fieldset>
+        </form>
+    </div>
+
+     
+    
+    </body>
+
+</html>
